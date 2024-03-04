@@ -1,0 +1,13 @@
+.app {
+    width: 100%;
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/billy-huynh-v9bnfMCyKbg-unsplash.jpg');
+    background-size: cover;
+    padding: 19vh;
+    background-position: center;
+}
+
+
